@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-/**
- * Skip tests
- */
->>>>>>> refs/remotes/origin/main
 const { expect } = require('chai');
 
 describe('Testing numbers', () => {
